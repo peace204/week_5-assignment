@@ -65,6 +65,8 @@ a :hover{
     color: white;
     width: 70%;
     margin-top: 10px;
+    padding-left: 10px;
+    box-sizing: border-box;
     
 
 }
@@ -82,6 +84,8 @@ a :hover{
     color: black;
     width: 30%;
     margin-top: 10px;
+    padding: 5px;
+    box-sizing: border-box;
    
 
 }
